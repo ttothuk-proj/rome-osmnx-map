@@ -21,5 +21,5 @@ fig, ax = ox.plot_figure_ground(point=point, dist=10000, network_type='all', def
 ```
 
 Ideas and refernce:
--[statsmapsnpix](http://www.statsmapsnpix.com/2020/10/10x10km-city-squares.html)
--[geoffboeing](https://geoffboeing.com/2016/11/osmnx-python-street-networks/#:~:text=OSMnx%20is%20a%20Python%20package,easily%20analyze%20and%20visualize%20them.)
+- [statsmapsnpix](http://www.statsmapsnpix.com/2020/10/10x10km-city-squares.html)
+- [geoffboeing](https://geoffboeing.com/2016/11/osmnx-python-street-networks/#:~:text=OSMnx%20is%20a%20Python%20package,easily%20analyze%20and%20visualize%20them.)
